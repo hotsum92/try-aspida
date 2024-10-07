@@ -12,5 +12,8 @@
     "@aspida/axios": "^1.14.0",
     "aspida": "^1.14.0",
     "axios": "^1.7.7"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.2"
   }
 }
